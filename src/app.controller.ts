@@ -43,6 +43,17 @@ export class AppController {
     };
   }
 
+  @Get('/resources')
+  @Render('resources')
+  resources() {
+    return {
+      resources: true,
+      notes: JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'dev-notes.json'), 'utf8')),
+      events: this.eventService.getOngoingEvents(),
+      alerts: this.eventService.getCurrentAlerts()
+    };
+  }
+
   @Get('/ldplayer')
   @Render('ldplayer')
   ldplayer() {
