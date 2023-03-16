@@ -1,21 +1,37 @@
 {
   "type": "server",
-  "images": [
-  ],
+  "images": [],
   "news": [
     {
       "veracity": "official",
-      "info": "New Exclusive Equipments - Sinful Angelica & Flan"
+      "info": "New Exclusive Equipments - Sinful Angelica & Flan",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9359547"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "Hero Banner: Kayron & Shepherd of the Hollow"
+      "info": "Hero Banner: Kayron & Shepherd of the Hollow",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9359570"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "Hero Banner: Luluca  & Spirit's Breath"
+      "info": "Hero Banner: Luluca  & Spirit's Breath",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9359563"
+        }
+      ]
     }
   ],
-  "stream": [
-  ]
+  "stream": []
 }

@@ -65,17 +65,17 @@
     {{> events}}
     <ul class="nav nav-tabs mb-1">
         <li class="nav-item">
-            <a class="nav-link{{# if upcomingFeatures}} active{{/if}}" href="/">Upcoming Features</a>
+            <a class="nav-link{{# if upcomingFeatures}} active{{/if}}" href="/">Upcoming Updates</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link{{# if pastPatches}} active{{/if}}" href="/past-patches">Past Patches</a>
+            <a class="nav-link{{# if pastPatches}} active{{/if}}" href="/past-patches">Past Updates</a>
         </li>
-        <li class="nav-item">
+        {{!-- <li class="nav-item">
             <a class="nav-link{{# if devNotes}} active{{/if}}" href="/dev-notes">Dev Notes</a>
-        </li>
-      {{!-- <li class="nav-item">
+        </li> --}}
+      <li class="nav-item">
         <a class="nav-link{{# if ldplayer}} active{{/if}}" href="/ldplayer">Play E7 on PC</a>
-      </li> --}}
+      </li>
     </ul>
     {{{body}}}
 

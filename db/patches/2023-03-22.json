@@ -1,6 +1,8 @@
 {
   "type": "client",
   "images": [
+    "datamine/banner_luckyweek_dash4.png",
+    "datamine/gacha_c1142_01_banner.png"
   ],
   "news": [
     {
@@ -12,6 +14,10 @@
           "url": "https://www.youtube.com/watch?v=JFds-GtnkeE"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story chapter opening: Family"
     }
   ],
   "stream": [
