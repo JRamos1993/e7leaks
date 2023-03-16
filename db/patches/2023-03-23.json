@@ -1,0 +1,19 @@
+{
+  "type": "client",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Eligos & An offer you can't refuse",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=JFds-GtnkeE"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "End of World Arena Indomitable Season",
+      "source": "12 week seasons",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9358453"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}
