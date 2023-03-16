@@ -2,33 +2,7 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Background Battling",
-      "source": "Q4 2022"
-    },
-    {
-      "veracity": "official",
-      "info": "Arena - 3 Teams vs 3 Teams",
-      "source": "Q4 2022"
-    },
-    {
-      "veracity": "official",
-      "info": "World Arena - Replay",
-      "source": "Q4 2022"
-    },
-    {
-      "veracity": "official",
-      "info": "New Labyrinth - Cidonia / Raid Revamp",
-      "source": "Q4 2022"
-    },
-    {
-      "veracity": "official",
-      "info": "New Lobby Types",
-      "source": "Q4 2022"
-    },
-    {
-      "veracity": "official",
-      "info": "Main Adventure - Episode 5",
-      "source": "2023"
+      "info": "World Arena - 3 Teams vs 3 Teams",
     }
   ]
 }
