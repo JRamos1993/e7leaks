@@ -28,7 +28,9 @@
                 {{#if images}}
                     <div class="col-3">
                         {{#each images}}
-                            <img src="{{this}}" height="50" class="float-right" />
+                            <a href="#" class="zoom-img">
+                                <img src="{{this}}" height="50" class="float-right" />
+                            </a>
                         {{/each}}
                     </div>
                 {{/if}}
@@ -46,3 +48,57 @@
         {{/if}}
     </div>
 {{/each}}
+
+<script>
+    // Add click event listener to all zoom-img elements
+    const zoomImages = document.querySelectorAll('.zoom-img');
+    zoomImages.forEach((zoomImg) => {
+        zoomImg.addEventListener('click', (event) => {
+            // Prevent default behavior of the anchor tag
+            event.preventDefault();
+            // Create new img element with the same source as the clicked img element
+            const clickedImgSrc = event.target.getAttribute('src');
+            console.log('Clicked image source:', clickedImgSrc);
+            const modalImg = document.createElement('img');
+            modalImg.src = clickedImgSrc;
+            console.log('Modal image element:', modalImg);
+            // Create new div element with class modal and append img element
+            const modal = document.createElement('div');
+            modal.classList.add('modal-window');
+            modal.appendChild(modalImg);
+            console.log('Modal element:', modal);
+            // Create new div element with class modal-background and append modal element
+            const modalBackground = document.createElement('div');
+            modalBackground.classList.add('modal-background');
+            modalBackground.appendChild(modal);
+            // Append modal-background to the body of the document
+            document.body.appendChild(modalBackground);
+            // Add click event listener to modal-background to remove modal and modal-background elements
+            modalBackground.addEventListener('click', () => {
+                document.body.removeChild(modalBackground);
+            });
+        });
+    });
+</script>
+
+<style>
+    .modal-background {
+        background-color: rgba(0, 0, 0, 0.8);
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .modal-window {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .modal-window img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+</style>
