@@ -116,9 +116,15 @@
                 seconds = Math.floor(timeRemaining);
 
                 // document.getElementById("days").innerHTML = Math.round(days, 10);
-                elem.getElementsByClassName('hour')[0].innerHTML = hours < 10 ? "0" + hours : hours;
-                elem.getElementsByClassName('min')[0].innerHTML = minutes < 10 ? "0" + minutes : minutes;
-                elem.getElementsByClassName('sec')[0].innerHTML = seconds < 10 ? "0" + seconds : seconds;
+                if (hours > 24) {
+                    elem.getElementsByClassName('days')[0].innerHTML = Math.floor(hours / 24);
+                    elem.getElementsByClassName('hours')[0].innerHTML = hours % 24;
+                    elem.getElementsByClassName('mins')[0].innerHTML = minutes;
+                } else {
+                    elem.getElementsByClassName('hour')[0].innerHTML = hours < 10 ? "0" + hours : hours;
+                    elem.getElementsByClassName('min')[0].innerHTML = minutes < 10 ? "0" + minutes : minutes;
+                    elem.getElementsByClassName('sec')[0].innerHTML = seconds < 10 ? "0" + seconds : seconds;
+                }
             } else {
                 return;
             }
