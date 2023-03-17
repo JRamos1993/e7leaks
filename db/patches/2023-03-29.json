@@ -1,0 +1,14 @@
+{
+  "type": "server",
+  "images": [
+    "datamine/architect-laika.jpg"
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Architect Laika & Tempest Surin"
+    }
+  ],
+  "stream": [
+  ]
+}

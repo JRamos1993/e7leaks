@@ -1,0 +1,23 @@
+{
+  "type": "server",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Mystic Rotation: Lionheart Cermia / Sage Baal & Sezan / Ambitious Tywin / Briar Witch Iseria / Angel of Light Angelica"
+    },
+    {
+      "veracity": "official",
+      "info": "Double Custom Mystic Banner"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Pavel & Dux Noctis"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tamarinne & Idol's Cheer"
+    }
+  ],
+  "stream": []
+}
