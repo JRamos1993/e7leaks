@@ -2,7 +2,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "World Arena 3v3"
+      "info": "New Arena Mode 3 Team VS 3 Team",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/8321429"
+        }
+      ]
     }
   ]
 }
