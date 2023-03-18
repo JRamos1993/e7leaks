@@ -1,13 +1,24 @@
 {
   "type": "client",
   "images": [
-    "datamine/banner_luckyweek_dash4.png",
-    "datamine/gacha_c1142_01_banner.png"
+    "banners/eligos.png",
+    "side-stories/family.png",
+    "banners/lua.png"
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "New Hero Banner: Eligos & An offer you can't refuse",
+      "info": "Update Content - Nickname Change Ticket & World Arena Improvements",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9359547"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Hero Banner: Eligos & An Offer You Can't Refuse",
       "resources": [
         {
           "label": "Intro",
@@ -17,7 +28,11 @@
     },
     {
       "veracity": "official",
-      "info": "New Side Story chapter opening: Family"
+      "info": "New Side Story Chapter Opening: Family"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lua + Spatiotemporal Fan"
     }
   ],
   "stream": [
