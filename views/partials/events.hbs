@@ -42,7 +42,11 @@
                         <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
                         <span class="badge badge-{{style}}">
                             <span class="time-target" data-target="{{target}}">
-                                <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                                {{#if showDays}}
+                                    <span class="days"></span>d <span class="hours"></span>h <span class="mins"></span>m
+                                {{else}}
+                                    <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                                {{/if}}
                             </span>
                         </span>
                     </div>
@@ -58,7 +62,11 @@
                         <b>{{#if url}}<a href="{{url}}" target="_blank">{{name}}</a>{{else}}{{name}}{{/if}}</b> {{type}}
                         <span class="badge badge-{{style}}">
                             <span class="time-target" data-target="{{target}}">
-                                <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                                {{#if showDays}}
+                                    <span class="days"></span>d <span class="hours"></span>h <span class="mins"></span>m
+                                {{else}}
+                                    <span class="hour"></span>:<span class="min"></span>:<span class="sec"></span>
+                                {{/if}}
                             </span>
                         </span>
                     </div>
