@@ -32,16 +32,16 @@ export class AppController {
     };
   }
 
-  @Get('/dev-notes')
-  @Render('dev-notes')
-  devNotes() {
-    return {
-      devNotes: true,
-      notes: JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'dev-notes.json'), 'utf8')),
-      events: this.eventService.getOngoingEvents(),
-      alerts: this.eventService.getCurrentAlerts()
-    };
-  }
+  // @Get('/dev-notes')
+  // @Render('dev-notes')
+  // devNotes() {
+  //   return {
+  //     devNotes: true,
+  //     notes: JSON.parse(fs.readFileSync(join(__dirname, '..', 'db', 'dev-notes.json'), 'utf8')),
+  //     events: this.eventService.getOngoingEvents(),
+  //     alerts: this.eventService.getCurrentAlerts()
+  //   };
+  // }
 
   @Get('/resources')
   @Render('resources')
@@ -54,13 +54,13 @@ export class AppController {
     };
   }
 
-  @Get('/ldplayer')
-  @Render('ldplayer')
-  ldplayer() {
-    return {
-      ldplayer: true,
-      events: this.eventService.getOngoingEvents(),
-      alerts: this.eventService.getCurrentAlerts()
-    };
-  }
+  // @Get('/ldplayer')
+  // @Render('ldplayer')
+  // ldplayer() {
+  //   return {
+  //     ldplayer: true,
+  //     events: this.eventService.getOngoingEvents(),
+  //     alerts: this.eventService.getCurrentAlerts()
+  //   };
+  // }
 }
