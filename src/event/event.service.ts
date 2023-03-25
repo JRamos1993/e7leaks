@@ -10,6 +10,9 @@ export class EventService {
     const events = {};
     for (const server of ['global', 'europe', 'asia']) {
       if (data[server] !== undefined) {
+        data[server].sort((a, b) => {
+          return moment(a.start).diff(moment(b.start));
+        });
         events[server] = this.prepareServerEvents(data[server]);
       }
     }
