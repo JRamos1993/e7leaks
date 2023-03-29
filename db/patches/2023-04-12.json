@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "server",
   "images": [
   ],
   "news": [
@@ -7,6 +7,10 @@
       "veracity": "likely",
       "info": "Hero Balance Adjustment",
       "source": "8 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "Moonlight Theater, The Spreading Schism - Act 4-7"
     }
   ],
   "stream": [
