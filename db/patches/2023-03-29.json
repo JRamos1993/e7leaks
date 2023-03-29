@@ -1,7 +1,8 @@
 {
   "type": "server",
   "images": [
-    "datamine/architect-laika.jpg"
+    "datamine/architect-laika.jpg",
+    "datamine/sc-ainos.jpg"
   ],
   "news": [
     {
