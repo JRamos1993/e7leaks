@@ -6,7 +6,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Mystic Rotation: Architect Laika & Tempest Surin"
+      "info": "New Mystic Rotation: Architect Laika & Tempest Surin",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=NNuQVvNbLVI"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -24,7 +30,13 @@
     },
     {
       "veracity": "official",
-      "info": "New Specialty Change Hero - Ainos 2.0"
+      "info": "New Specialty Change Hero - Ainos 2.0",
+      "resources": [
+        {
+          "label": "Preview",
+          "url": "https://www.youtube.com/watch?v=MJnlrmmV6EQ"
+        }
+      ]
     },
     {
       "veracity": "official",
