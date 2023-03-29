@@ -7,6 +7,20 @@
     {
       "veracity": "official",
       "info": "New Mystic Rotation: Architect Laika & Tempest Surin"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lilias & Bastion of Perlutia",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9384049"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Coin Shop Rotation: Conqueror Lilias / Specter Tenebria / Dark Corvus / Ken / Ilynav / Chloe"
     }
   ],
   "stream": [
