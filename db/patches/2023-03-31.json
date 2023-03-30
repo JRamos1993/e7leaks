@@ -5,6 +5,10 @@
   ],
   "news": [
     {
+      "veracity": "official",
+      "info": "New Coin Shop Rotation: Conqueror Lilias / Specter Tenebria / Dark Corvus / Ken / Ilynav / Chloe"
+    },
+    {
       "veracity": "likely",
       "info": "Side Story: [April Fools] A Better Left Unrecorded History",
       "resources": [
