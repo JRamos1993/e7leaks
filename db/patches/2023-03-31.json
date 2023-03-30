@@ -1,0 +1,19 @@
+{
+  "type": "",
+  "images": [
+    "datamine/ss_vaf3aa_bi.png"
+  ],
+  "news": [
+    {
+      "veracity": "likely",
+      "info": "Side Story: [April Fools] A Better Left Unrecorded History",
+      "resources": [
+        {
+          "label": "Datamined",
+          "url": "https://www.e7vau.lt/datamine-history.html?patch=20230330&folder=banner"
+        }
+      ]
+    }
+  ],
+  "stream": []
+}
