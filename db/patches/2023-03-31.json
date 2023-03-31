@@ -9,12 +9,22 @@
       "info": "New Coin Shop Rotation: Conqueror Lilias / Specter Tenebria / Dark Corvus / Ken / Ilynav / Chloe"
     },
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "Side Story: [April Fools] Surviving a Mysterious Dungeon 101",
       "resources": [
         {
-          "label": "Datamined",
-          "url": "https://www.e7vau.lt/datamine-history.html?patch=20230330&folder=banner"
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9389031"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story: [April Fools] A Better Left Unrecorded History",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9389031"
         }
       ]
     }
