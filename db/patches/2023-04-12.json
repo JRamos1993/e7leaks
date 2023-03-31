@@ -4,15 +4,6 @@
   ],
   "news": [
     {
-      "veracity": "likely",
-      "info": "Hero Balance Adjustment",
-      "source": "8 week cycle"
-    },
-    {
-      "veracity": "official",
-      "info": "Moonlight Theater, The Spreading Schism - Act 4-7"
-    },
-    {
       "veracity": "official",
       "info": "Hero Balance Adjustment",
       "resources": [
@@ -21,6 +12,10 @@
           "url": "https://page.onstove.com/epicseven/global/view/9388711"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Moonlight Theater, The Spreading Schism - Act 4-7"
     }
   ],
   "stream": [
