@@ -74,6 +74,12 @@
       "start": "2023-04-01 18:00:00Z",
       "end": "2023-04-02 18:00:00Z",
       "url": "https://page.onstove.com/epicseven/global/view/9385758"
+    },
+    {
+      "name": "Twitch Drop Event",
+      "start": "2023-04-07 03:00:00Z",
+      "end": "2023-04-02 03:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/9400233"
     }
   ],
   "europe": [
