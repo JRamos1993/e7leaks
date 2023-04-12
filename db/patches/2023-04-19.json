@@ -1,0 +1,25 @@
+{
+  "type": "server",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Destina + Shimadra Staff"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Baal & Sezan + Last Teatime"
+    },
+    {
+      "veracity": "official",
+      "info": "Custom Group Summon"
+    },
+    {
+      "veracity": "official",
+      "info": "Mystic Rotation: Pirate Captain Flan / Mediator Kawerik / Maid Chloe / Martial Artist Ken"
+    }
+  ],
+  "stream": [
+  ]
+}
