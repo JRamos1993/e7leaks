@@ -4,9 +4,15 @@
   ],
   "news": [
     {
-      "veracity": "likely",
+      "veracity": "official",
       "info": "End of Guild War Indomitable Season",
-      "source": "12 week cycle"
+      "source": "12 week cycle",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9410675"
+        }
+      ]
     }
   ],
   "stream": []
