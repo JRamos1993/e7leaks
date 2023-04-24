@@ -1,6 +1,36 @@
 {
   "news": [
     {
+      "veracity": "official",
+      "info": "Equipment QoL Update",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9428096"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Promotions QoL Update",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9428123"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Profile Card Update",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9433116"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "Epic Seven x Tensura - That Time I Got Reincarnated as a Slime - Collaboration",
       "source": "French Stove Removed Leak"
