@@ -31,6 +31,16 @@
       ]
     },
     {
+      "veracity": "official",
+      "info": "New Units",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://www.youtube.com/watch?v=i8b9cDeJyKA"
+        }
+      ]
+    },
+    {
       "veracity": "maybe",
       "info": "Epic Seven x Tensura - That Time I Got Reincarnated as a Slime - Collaboration",
       "source": "French Stove Removed Leak"
