@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "server",
   "images": [
   ],
   "news": [
@@ -22,6 +22,14 @@
           "url": "https://page.onstove.com/epicseven/global/view/9427980"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Bellona & Iron Fan"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Iseria & Song of Stars"
     }
   ],
   "stream": []
