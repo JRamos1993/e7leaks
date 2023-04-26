@@ -30,6 +30,26 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Iseria & Song of Stars"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Balance Adjustment (Shuna)",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9436136"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Promotion System Revamp",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9436136"
+        }
+      ]
     }
   ],
   "stream": []
