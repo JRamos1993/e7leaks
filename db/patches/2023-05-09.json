@@ -1,11 +1,19 @@
 {
   "type": "",
   "images": [
-    "teaser/ml_kayron.png"
   ],
   "news": [
+    {
+      "veracity": "likely",
+      "info": "New Exclusive Equipments",
+      "source": "8 week cycle"
+    },
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Twisted Eidolon Kayron & Shadow Rose",
+      "source": "In game news"
+    }
   ],
   "stream": [
-    "New ML5 Showcase (ML Kayron)"
   ]
 }
