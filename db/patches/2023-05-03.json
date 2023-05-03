@@ -5,11 +5,31 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Epic Seven x Tensura - That Time I Got Reincarnated as a Slime - Collaboration",
+      "info": "Hero Banner: Rimuru & Anti-Magic Mask Limited Summon",
       "resources": [
         {
           "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9434324"
+          "url": "https://page.onstove.com/epicseven/global/view/9447356"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Milim & Upgraded Dragon Knuckles",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9447354"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story Rerun - Solayu Cook-Off Week 1",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9447348"
         }
       ]
     },
@@ -19,7 +39,7 @@
       "resources": [
         {
           "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9436136"
+          "url": "https://page.onstove.com/epicseven/global/view/9447348"
         }
       ]
     }

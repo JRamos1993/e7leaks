@@ -1,0 +1,24 @@
+{
+  "type": "",
+  "images": [
+  ],
+  "news": [
+    {
+      "veracity": "maybe",
+      "info": "New Limited Hero Banner: Benimaru + ???",
+      "source": "In game news"
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story Rerun - Solayu Cook-Off Week 2",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9447348"
+        }
+      ]
+    }
+  ],
+  "stream": [
+  ]
+}

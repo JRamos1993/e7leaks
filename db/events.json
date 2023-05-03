@@ -52,6 +52,11 @@
       "url": "https://www.surveymonkey.com/r/B6KJB7H"
     },
     {
+      "name": "Check-In Event",
+      "start": "2023-05-04 10:00:00Z",
+      "end": "2023-05-25 10:00:00Z"
+    },
+    {
       "name": "Forum event - Stick Figure Character Drawing",
       "start": "2023-04-12 10:00:00Z",
       "end": "2023-05-07 15:00:00Z",
@@ -116,8 +121,8 @@
     },
     {
       "name": "Covenant Summon Event",
-      "start": "2023-04-01 03:00:00Z",
-      "end": "2023-04-08 03:00:00Z"
+      "start": "2023-05-05 03:00:00Z",
+      "end": "2023-05-17 03:00:00Z"
     }
   ],
   "asia": [
