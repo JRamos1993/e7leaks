@@ -10,7 +10,7 @@
       "resources": [
         {
           "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9464412"
+          "url": "https://page.onstove.com/epicseven/global/view/9462992"
         }
       ]
     },
@@ -27,7 +27,12 @@
     {
       "veracity": "official",
       "info": "New Mystic Rotation: Twisted Eidolon Kayron & Shadow Rose",
-      "source": "In game news"
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9464412"
+        }
+      ]
     }
   ],
   "stream": [
