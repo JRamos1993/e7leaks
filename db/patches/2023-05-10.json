@@ -5,9 +5,14 @@
   ],
   "news": [
     {
-      "veracity": "maybe",
-      "info": "New Limited Hero Banner: Benimaru + ???",
-      "source": "In game news"
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Benimaru + Benimaru's Tachi",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9464412"
+        }
+      ]
     },
     {
       "veracity": "official",
@@ -18,6 +23,11 @@
           "url": "https://page.onstove.com/epicseven/global/view/9447348"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Twisted Eidolon Kayron & Shadow Rose",
+      "source": "In game news"
     }
   ],
   "stream": [
