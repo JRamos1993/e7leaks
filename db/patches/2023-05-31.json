@@ -9,7 +9,13 @@
     },
     {
       "veracity": "official",
-      "info": "Hero Banner: Abigail + Golden Rose"
+      "info": "Hero Banner: Abigail + Golden Rose",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=JYk2x2yVoVk"
+        }
+      ]
     },
     {
       "veracity": "official",
