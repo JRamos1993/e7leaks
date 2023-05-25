@@ -20,6 +20,16 @@
     {
       "veracity": "official",
       "info": "Mystic Rotation: Top Model Luluca / Last Rider Krau / Dark Corvus / Blood Moon Haste"
+    },
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation (ML4): Last Piece Karin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=uLoQythYovU"
+        }
+      ]
     }
   ],
   "stream": [
