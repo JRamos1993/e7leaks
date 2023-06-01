@@ -1,4 +1,26 @@
-#right-banner {
-    float: right;
-    margin-left: 10px;
-}
+:root {
+    --max-side-banner-width: 400px;
+  }
+  
+  .side-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: var(--max-side-banner-width);
+    height: 100vh;
+    background-image: url("../img/345636-Challenger-Dominiel-Anime-Girls-Epic-Seven-Video-Game-Anime.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  @media (max-width: 1900px) {
+    .side-banner {
+      display: none;
+    }
+  }
+  
+  .main-content {
+    margin-left: var(--max-side-banner-width);
+    padding: 20px;
+  }
