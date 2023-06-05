@@ -25,9 +25,9 @@
 <div class="side-banner img-fluid"></div>
 <body class="container">
     
-        <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3 pb-0">
-        <h1 class="navbar-brand pt-1">E7 Leaks</h1>
-        <h3 class="navbar-brand text-muted pt-1">Upcoming Epic 7 Patches</h3>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand text-muted pt-1 btn btn-link bg-light" href="/">E7-Leaks</a>
+        <p class="navbar-brand text-muted ml-auto">Upcoming Epic 7 Patches</p>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item nav-link">
               <a class="btn btn-sm btn-outline-secondary" target="_blank" href="https://www.buymeacoffee.com/maka1993" data-toggle="tooltip" title="Buy me a Coffee" data-placement="left">
@@ -87,13 +87,41 @@
 
     {{> footer}}
         
-        {{! script da side banner por determinar resolução}}
+        {{! script da side banner por determinar resolução e dar efeito fade}}
       <script>
-        window.addEventListener('DOMContentLoaded', function() {
-            const screenWidth = window.innerWidth;
-            document.documentElement.style.setProperty('--max-side-banner-width', screenWidth <= 1799 ? '0px' : '400px');
+        window.addEventListener("DOMContentLoaded", () => {
+        const sideBanner = document.querySelector(".side-banner");
+
+        // Function to show the side banner with animation
+        const showSideBanner = () => {
+            sideBanner.classList.add("show");
+        };
+
+        // Function to hide the side banner
+        const hideSideBanner = () => {
+            sideBanner.classList.remove("show");
+        };
+
+        // Check if the side banner should be shown or hidden
+        const checkSideBanner = () => {
+            const windowWidth = window.innerWidth;
+            const maxBannerWidth = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--max-side-banner-width'));
+
+            if (windowWidth >= maxBannerWidth) {
+            showSideBanner();
+            } else {
+            hideSideBanner();
+            }
+        };
+
+        // Call checkSideBanner initially
+        checkSideBanner();
+
+        // Add event listener for window resize
+        window.addEventListener("resize", checkSideBanner);
         });
     </script>
+   
 </body >
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

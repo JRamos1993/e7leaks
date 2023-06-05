@@ -111,3 +111,7 @@ footer {
 [data-theme="dark"] .table td, [data-theme="dark"] .table th {
   color: #eee;
 }
+
+[data-theme="dark"] .navbar {
+  animation: navbarAnimation 1s ease-in-out;
+}

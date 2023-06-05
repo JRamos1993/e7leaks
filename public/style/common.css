@@ -1,5 +1,6 @@
 :root {
     --max-side-banner-width: 400px;
+    --side-banner-animation-duration: 1.5s;
   }
   
   .side-banner {
@@ -12,15 +13,68 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    opacity: 0;
+    animation: fade-in var(--side-banner-animation-duration) forwards;
+    animation-delay: 1s;
+    z-index: -1;
+   }
+
+  .side-banner::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0px; /* Adjust the padding height as needed */
+    width: 5px; /* Adjust the padding width as needed */
+    background-color: rgba(24, 12, 12, 0.397); /* Adjust the opacity value (0.5 in this example) */
+  
+  }
+  
+  
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
   
   @media (max-width: 1900px) {
     .side-banner {
       display: none;
+      
     }
   }
   
-  .main-content {
-    margin-left: var(--max-side-banner-width);
-    padding: 20px;
+
+  @keyframes mainDivAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
+  
+  .container {
+    animation: mainDivAnimation 1s ease-in-out;
+    /* Add other styles for the container div here */
+  }
+
+  
+@keyframes navbarAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.navbar {
+  animation: navbarAnimation 1s ease-in-out;
+  /* Add other styles for the navbar here */
+}
