@@ -1,11 +1,15 @@
 {
-  "type": "",
+  "type": "server",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
       "info": "New Mystic Rotation: Requiem Roana & General Purrgis"
+    },
+    {
+      "veracity": "official",
+      "info": "Side Story Rerun - Finally, Summer Break! - Map of Solayu Resort"
     }
   ],
   "stream": [
