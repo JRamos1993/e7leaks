@@ -10,6 +10,38 @@
     {
       "veracity": "official",
       "info": "Side Story Rerun - Finally, Summer Break! - Map of Solayu Resort"
+    },
+    {
+      "veracity": "official",
+      "info": "New Skin - Red Lotus Fighter Free Spirit Tieria"
+    },
+    {
+      "veracity": "official",
+      "info": "Battle Status Improvements"
+    },
+    {
+      "veracity": "official",
+      "info": "Battle Speed",
+      "resources": [
+        {
+          "label": "Link",
+          "url": "https://page.onstove.com/epicseven/global/view/9504280"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Profile Card",
+      "resources": [
+        {
+          "label": "Link",
+          "url": "https://page.onstove.com/epicseven/global/view/9433116"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Peira + Goblet of Oath"
     }
   ],
   "stream": [

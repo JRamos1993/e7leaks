@@ -2,26 +2,6 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Battle Speed",
-      "resources": [
-        {
-          "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9504280"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
-      "info": "Profile Card Update",
-      "resources": [
-        {
-          "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9433116"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
       "info": "New Units",
       "resources": [
         {
