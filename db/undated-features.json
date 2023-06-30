@@ -19,6 +19,46 @@
           "url": "https://page.onstove.com/epicseven/global/view/8321429"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Episode 5, Erasia",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9563708"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Summer Luluca - Summer Event",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9563708"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Ancient Inheritance Dungeon - Second Half 2023",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9563708"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "PC Client Release - August",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9563708"
+        }
+      ]
     }
   ]
 }
