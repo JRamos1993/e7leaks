@@ -1,11 +1,59 @@
 {
-  "type": "",
+  "type": "server",
   "images": [
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "New Side Story: Tarev Island Resort (Gear Reset Scrolls as Reward)"
+      "info": "New Side Story: A Midsummer Paradise Chapter 1"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Celine + Secret Art - Storm Sword"
+    },
+    {
+      "veracity": "official",
+      "info": "Epic Pass, Radiant Sunlight 2023 Season with Summer Celine Skin"
+    },
+    {
+      "veracity": "official",
+      "info": "Equipment Reset System",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9577758"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipment for Seaside Bellona and Tempest Surin",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9577758"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "World Arena Draft Mode",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9577758"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Limited Hero Banner: Ocean Breeze Luluca & Sole Consolation",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=mPbpbEmA_IE"
+        }
+      ]
     }
   ],
   "stream": [
