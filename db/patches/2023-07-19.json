@@ -6,6 +6,16 @@
     {
       "veracity": "official",
       "info": "New Side Story: A Midsummer Paradise Chapter 3"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Lethe + Prayer of Solitude",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=3L3QbsO4YG4"
+        }
+      ]
     }
   ],
   "stream": [
