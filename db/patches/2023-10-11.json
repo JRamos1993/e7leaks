@@ -1,20 +1,58 @@
 {
-  "type": "",
+  "type": "server",
   "images": [
     "teaser/kane_ml_yu.jpg"
   ],
   "news": [
     {
       "veracity": "official",
-      "info": "Rift Season 1: Defect Terminator Zeaon"
+      "info": "Rift Season 1: Defect Terminator Zeaon",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9800255?boardKey=986"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "Hero Banner: Tamarinne & Idol's Cheer"
+      "info": "Hero Banner: Tamarinne & Idol's Cheer",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9800255?boardKey=986"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "Hero Banner: Haste & Rhianna & Luciella"
+      "info": "Hero Banner: Haste & Rhianna & Luciella",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9800255?boardKey=986"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story, A Fable of the Demons of Natalon - Week 3",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9800255?boardKey=986"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Battle Screen UI Improvements",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9800255?boardKey=986"
+        }
+      ]
     }
   ],
   "stream": [
