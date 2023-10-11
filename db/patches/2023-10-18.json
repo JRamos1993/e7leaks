@@ -1,10 +1,12 @@
 {
   "type": "",
-  "images": [],
+  "images": [
+    "banners/kane.png"
+  ],
   "news": [
     {
       "veracity": "official",
-      "info": "Hero Banner: Kane & Tyrant's"
+      "info": "Hero Banner: Kane & Tyrant's Descent"
     },
     {
       "veracity": "official",
