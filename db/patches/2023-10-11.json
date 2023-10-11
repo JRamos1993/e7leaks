@@ -3,7 +3,20 @@
   "images": [
     "teaser/kane_ml_yu.jpg"
   ],
-  "news": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Rift Season 1: Defect Terminator Zeaon"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tamarinne & Idol's Cheer"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Haste & Rhianna & Luciella"
+    }
+  ],
   "stream": [
     "Kane and ML Yufine Reveal"
   ]
