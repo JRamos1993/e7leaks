@@ -6,7 +6,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Mystic Rotation: Abyssal Yufine + Bad Cat Armin"
+      "info": "New Mystic Rotation: Abyssal Yufine + Bad Cat Armin",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=K1tfsK6f75s"
+        }
+      ]
     }
   ],
   "stream": []

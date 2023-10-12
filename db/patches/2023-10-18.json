@@ -6,7 +6,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Hero Banner: Kane & Tyrant's Descent"
+      "info": "Hero Banner: Kane & Tyrant's Descent",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=5YWI-EDel6M"
+        }
+      ]
     },
     {
       "veracity": "official",
