@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "client",
   "images": [
     "banners/kane.png"
   ],
@@ -17,6 +17,10 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Cecilia + Rise of a Monarch"
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Awoken Vampire Lord"
     }
   ],
   "stream": []
