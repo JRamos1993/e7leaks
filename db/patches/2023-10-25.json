@@ -13,6 +13,28 @@
           "url": "https://www.youtube.com/watch?v=K1tfsK6f75s"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "New 3 Star Heroes"
+    },
+    {
+      "veracity": "official",
+      "info": "New Exclusive Equipments - Arunka / Ken",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9829013?boardKey=986"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Adventure Side Story: Kiss of Frost Preview"
+    },
+    {
+      "veracity": "official",
+      "info": "E7WC 2023 Champion's Ring"
     }
   ],
   "stream": []
