@@ -14,6 +14,16 @@
     },
     {
       "veracity": "official",
+      "info": "Memory Shards",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9844317"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
       "info": "Custom Group Summon - Covenant Heroes"
     }
   ],
