@@ -25,6 +25,16 @@
     {
       "veracity": "official",
       "info": "Custom Group Summon - Covenant Heroes"
+    },
+    {
+      "veracity": "official",
+      "info": "Winter Update Celebration! Major Check-in Event",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9845320"
+        }
+      ]
     }
   ],
   "stream": []
