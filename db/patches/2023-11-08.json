@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "server",
   "images": [],
   "news": [
     {
@@ -26,11 +26,23 @@
     },
     {
       "veracity": "official",
-      "info": "Hero Profile and Hero UI Improvements"
+      "info": "Hero Profile and Hero UI Improvements",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9855685"
+        }
+      ]
     },
     {
       "veracity": "official",
-      "info": "QoL Improvements: Catalyst Crafting, Equipment Enhancement, and more"
+      "info": "QoL Improvements: Catalyst Crafting, Equipment Enhancement, and more",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9855685"
+        }
+      ]
     }
   ],
   "stream": []
