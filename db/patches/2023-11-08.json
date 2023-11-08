@@ -4,26 +4,6 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Awaken Potential - Ravi, Krau, Alencia, and Charles (Canceled)",
-      "resources": [
-        {
-          "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9844317"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
-      "info": "Memory Shards (Canceled)",
-      "resources": [
-        {
-          "label": "Info",
-          "url": "https://page.onstove.com/epicseven/global/view/9844317"
-        }
-      ]
-    },
-    {
-      "veracity": "official",
       "info": "Custom Group Summon - Covenant Heroes"
     },
     {
@@ -35,6 +15,22 @@
           "url": "https://page.onstove.com/epicseven/global/view/9845320"
         }
       ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Ravi + Sigurd Scythe"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tenebria + Crimson Moon of Nightmares"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Profile and Hero UI Improvements"
+    },
+    {
+      "veracity": "official",
+      "info": "QoL Improvements: Catalyst Crafting, Equipment Enhancement, and more"
     }
   ],
   "stream": []

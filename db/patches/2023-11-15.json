@@ -1,10 +1,28 @@
 {
   "type": "",
-  "images": [],
+  "images": [
+    "teaser/fumyr.jpg"
+  ],
   "news": [
     {
       "veracity": "maybe",
       "info": "Custom Mystic Summon"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Taeyou + Spear of Purification"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Fumyr + Umbral Keystones"
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story: Primed and Set"
+    },
+    {
+      "veracity": "official",
+      "info": "New Mystic Rotation: Specter Tenebria / Closer Charles / Straze / Astromancer Elena"
     }
   ],
   "stream": []
