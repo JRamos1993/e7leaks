@@ -4,7 +4,13 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Hero Balance Adjustment"
+      "info": "Hero Balance Adjustment",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9858147"
+        }
+      ]
     },
     {
       "veracity": "official",
