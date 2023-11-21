@@ -1,6 +1,8 @@
 {
   "type": "",
-  "images": [],
+  "images": [
+    "teaser/mllud.png"
+  ],
   "news": [
     {
       "veracity": "official",
@@ -17,5 +19,7 @@
       "info": "Moonlight Hero Recruitment Event"
     }
   ],
-  "stream": []
+  "stream": [
+    "ML Ludwig Reveal"
+  ]
 }
