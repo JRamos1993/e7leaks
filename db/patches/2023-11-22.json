@@ -17,6 +17,20 @@
     {
       "veracity": "official",
       "info": "Moonlight Hero Recruitment Event"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Sez + Manica of Control"
+    },
+    {
+      "veracity": "official",
+      "info": "UI Improvements",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/9878481"
+        }
+      ]
     }
   ],
   "stream": [

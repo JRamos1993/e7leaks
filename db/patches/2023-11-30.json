@@ -1,0 +1,15 @@
+{
+  "type": "client",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Coin Shop Rotation: Silver Blade Aramintha / Top Model Luluca / Last Rider Kray / Roana / Taeyou / Pavel"
+    },
+    {
+      "veracity": "official",
+      "info": "Expedition Boss Rotation: Fire, Earth, Dark"
+    }
+  ],
+  "stream": []
+}
