@@ -12,28 +12,28 @@
     },
     {
       "name": "Free Unequip",
-      "start": "2023-10-25 03:00:00Z",
-      "end": "2023-10-29 15:00:00Z"
+      "start": "2023-11-22 03:00:00Z",
+      "end": "2023-11-26 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
-      "start": "2023-11-10 10:00:00Z",
-      "end": "2023-11-11 10:00:00Z"
+      "start": "2023-11-24 10:00:00Z",
+      "end": "2023-11-25 10:00:00Z"
     },
     {
-      "name": "+50% AP/+30% XP",
-      "start": "2023-11-12 10:00:00Z",
-      "end": "2023-11-13 10:00:00Z"
+      "name": "+50% AP/+30% XP/+20% Rift",
+      "start": "2023-11-26 10:00:00Z",
+      "end": "2023-11-27 10:00:00Z"
     },
     {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2023-11-11 10:00:00Z",
-      "end": "2023-11-12 10:00:00Z"
+      "name": "+50% Hunt Mat/+30% Gold/+20% Rift",
+      "start": "2023-11-25 10:00:00Z",
+      "end": "2023-11-26 10:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-11-13 10:00:00Z",
-      "end": "2023-11-14 10:00:00Z"
+      "start": "2023-11-27 10:00:00Z",
+      "end": "2023-11-28 10:00:00Z"
     },
     {
       "name": "Video reward chest password: oceanbreeze",
@@ -62,10 +62,10 @@
       "end": "2023-07-10 10:00:00Z"
     },
     {
-      "name": "Forum Event - Epic Seven Best Tips Event",
-      "start": "2023-11-02 10:00:00Z",
-      "end": "2023-12-03 15:00:00Z",
-      "url": "https://page.onstove.com/epicseven/global/view/9843326"
+      "name": "Forum Event - Elf Party! Sudoku Game Event!",
+      "start": "2023-11-23 10:00:00Z",
+      "end": "2023-12-29 15:00:00Z",
+      "url": "https://page.onstove.com/epicseven/global/view/9880084"
     },
     {
       "name": "Forum event - Personality Quiz",
@@ -112,23 +112,23 @@
     },
     {
       "name": "x2 Rune Drop Rate",
-      "start": "2023-11-10 03:00:00Z",
-      "end": "2023-11-11 03:00:00Z"
+      "start": "2023-11-24 03:00:00Z",
+      "end": "2023-11-25 03:00:00Z"
     },
     {
       "name": "+50% AP/+30% XP",
-      "start": "2023-11-12 03:00:00Z",
-      "end": "2023-11-13 05:00:00Z"
+      "start": "2023-11-26 03:00:00Z",
+      "end": "2023-11-27 05:00:00Z"
     },
     {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2023-11-11 03:00:00Z",
-      "end": "2023-11-12 03:00:00Z"
+      "name": "+50% Hunt Mat/+30% Gold/+20% Rift",
+      "start": "2023-11-25 03:00:00Z",
+      "end": "2023-11-26 03:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-11-13 03:00:00Z",
-      "end": "2023-11-14 03:00:00Z"
+      "start": "2023-11-27 03:00:00Z",
+      "end": "2023-11-28 03:00:00Z"
     },
     {
       "name": "Covenant Summon Event",
@@ -144,23 +144,23 @@
     },
     {
       "name": "x2 Rune Drop Rate",
-      "start": "2023-11-09 18:00:00Z",
-      "end": "2023-11-10 18:00:00Z"
+      "start": "2023-11-23 18:00:00Z",
+      "end": "2023-11-24 18:00:00Z"
     },
     {
       "name": "+50% AP/+30% XP",
-      "start": "2023-11-11 18:00:00Z",
-      "end": "2023-11-12 18:00:00Z"
+      "start": "2023-11-25 18:00:00Z",
+      "end": "2023-11-26 18:00:00Z"
     },
     {
-      "name": "+50% Hunt Mat/+30% Gold",
-      "start": "2023-11-10 18:00:00Z",
-      "end": "2023-11-11 18:00:00Z"
+      "name": "+50% Hunt Mat/+30% Gold/+20% Rift",
+      "start": "2023-11-24 18:00:00Z",
+      "end": "2023-11-25 18:00:00Z"
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-11-12 18:00:00Z",
-      "end": "2023-11-13 18:00:00Z"
+      "start": "2023-11-26 18:00:00Z",
+      "end": "2023-11-27 18:00:00Z"
     },
     {
       "name": "Covenant Summon Event",
