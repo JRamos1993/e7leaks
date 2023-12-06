@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "server",
   "images": [],
   "news": [
     {
@@ -19,6 +19,24 @@
     {
       "veracity": "official",
       "info": "Hero Banner: Sharun + Sacred Tree Branch"
+    },
+    {
+      "veracity": "official",
+      "info": "New Specialty Change - Silvertide Christy",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ihfz_RGB1Cs"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Moonlight Theater, Fusing World"
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story, “Eerie Night in the Secret Garden” Preview"
     }
   ],
   "stream": []
