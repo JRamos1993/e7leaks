@@ -4,11 +4,21 @@
   "news": [
     {
       "veracity": "official",
-      "info": "New Hero Banner: Byblis & Old Gardening Shears"
+      "info": "New Hero Banner: Byblis & Old Gardening Shears",
+      "resources": [
+        {
+          "label": "Intro",
+          "url": "https://www.youtube.com/watch?v=ruqkZExgx8M"
+        }
+      ]
     },
     {
       "veracity": "official",
       "info": "Hero Banner: Lilibet & Creation & Destruction"
+    },
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Eerie Night in the Secret Garden Week 1"
     }
   ],
   "stream": []

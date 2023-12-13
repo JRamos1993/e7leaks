@@ -1,7 +1,12 @@
 {
   "type": "",
   "images": [],
-  "news": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Special Side Story - Eerie Night in the Secret Garden Week 2"
+    }
+  ],
   "stream": [
     "Blooming Lidica Reveal"
   ]
