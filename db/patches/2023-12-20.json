@@ -1,10 +1,36 @@
 {
-  "type": "",
+  "type": "server",
   "images": [],
   "news": [
     {
       "veracity": "official",
+      "info": "Epic Pass, 2023 Byblis's Garden Season"
+    },
+    {
+      "veracity": "official",
       "info": "Special Side Story - Eerie Night in the Secret Garden Week 2"
+    },
+    {
+      "veracity": "official",
+      "info": "Two New Exclusive Equipment - Abigail & Bad Cat Armin",
+      "resources": [
+        {
+          "label": "info",
+          "url": "https://page.onstove.com/epicseven/global/view/9924172"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Arunka & Sword of Autumn Eclipse"
+    },
+    {
+      "veracity": "official",
+      "info": "Winter Holidays Lobby Theme Change"
+    },
+    {
+      "veracity": "official",
+      "info": "Byblis Balance Adjustments"
     }
   ],
   "stream": [

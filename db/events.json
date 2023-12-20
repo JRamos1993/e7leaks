@@ -12,8 +12,8 @@
     },
     {
       "name": "Free Unequip",
-      "start": "2023-11-22 03:00:00Z",
-      "end": "2023-11-26 15:00:00Z"
+      "start": "2023-12-23 03:00:00Z",
+      "end": "2023-12-26 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
@@ -32,8 +32,8 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-12-11 10:00:00Z",
-      "end": "2023-12-12 10:00:00Z"
+      "start": "2023-12-23 10:00:00Z",
+      "end": "2023-12-26 10:00:00Z"
     },
     {
       "name": "Video reward chest password: oceanbreeze",
@@ -52,9 +52,9 @@
       "url": "https://www.surveymonkey.com/r/H637V8P"
     },
     {
-      "name": "Summer Check-In Event",
-      "start": "2023-07-06 10:00:00Z",
-      "end": "2023-08-03 10:00:00Z"
+      "name": "Winter Check-In Event",
+      "start": "2023-12-23 10:00:00Z",
+      "end": "2024-01-04 10:00:00Z"
     },
     {
       "name": "Special Check-In Event",
@@ -107,8 +107,8 @@
   "europe": [
     {
       "name": "Free Unequip",
-      "start": "2023-04-13 03:00:00Z",
-      "end": "2023-04-16 15:00:00Z"
+      "start": "2023-12-23 03:00:00Z",
+      "end": "2023-12-26 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
@@ -127,20 +127,25 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-12-11 03:00:00Z",
-      "end": "2023-12-12 03:00:00Z"
+      "start": "2023-12-23 03:00:00Z",
+      "end": "2023-12-26 03:00:00Z"
     },
     {
       "name": "Covenant Summon Event",
       "start": "2023-11-03 03:00:00Z",
       "end": "2023-11-22 03:00:00Z"
+    },
+    {
+      "name": "Winter Check-In Event",
+      "start": "2023-12-23 03:00:00Z",
+      "end": "2024-01-04 03:00:00Z"
     }
   ],
   "asia": [
     {
       "name": "Free Unequip",
-      "start": "2023-09-13 03:00:00Z",
-      "end": "2023-09-16 15:00:00Z"
+      "start": "2023-12-22 03:00:00Z",
+      "end": "2023-12-25 15:00:00Z"
     },
     {
       "name": "x2 Rune Drop Rate",
@@ -159,13 +164,18 @@
     },
     {
       "name": "All Buffs at Once",
-      "start": "2023-12-10 18:00:00Z",
-      "end": "2023-12-11 18:00:00Z"
+      "start": "2023-12-22 18:00:00Z",
+      "end": "2023-12-25 18:00:00Z"
     },
     {
       "name": "Covenant Summon Event",
       "start": "2023-03-31 18:00:00Z",
       "end": "2023-04-07 18:00:00Z"
+    },
+    {
+      "name": "Winter Check-In Event",
+      "start": "2023-12-23 18:00:00Z",
+      "end": "2024-01-03 18:00:00Z"
     }
   ]
 }
