@@ -1,10 +1,36 @@
 {
-  "type": "",
+  "type": "server",
   "images": [],
   "news": [
     {
       "veracity": "official",
       "info": "Special Side Story - Eerie Night in the Secret Garden Week 4"
+    },
+    {
+      "veracity": "official",
+      "info": "Episode 5, Chapter 5 - Northern Equilibria Available"
+    },
+    {
+      "veracity": "official",
+      "info": "Episode 5, Chapter 6 - Central Sangerat Available"
+    },
+    {
+      "veracity": "official",
+      "info": "New 3 Star Heroe - Leah"
+    },
+    {
+      "veracity": "official",
+      "info": "UI Improvements",
+      "resources": [
+        {
+          "label": "info",
+          "url": "https://page.onstove.com/epicseven/global/view/9951018"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Eda + Twilight Calamity"
     }
   ],
   "stream": []
