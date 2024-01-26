@@ -2,21 +2,51 @@
   "news": [
     {
       "veracity": "official",
-      "info": "Young Senya",
+      "info": "Draft Arena (Q1 2024)",
       "resources": [
         {
           "label": "Info",
-          "url": "https://www.reddit.com/r/EpicSeven/comments/17c8mcm/wait_young_senya_back_from_the_dead/"
+          "url": "https://youtu.be/z6yZjubZlMI"
         }
       ]
     },
     {
       "veracity": "official",
-      "info": "New Heroes",
+      "info": "Special Side Story - Sweets & Music (February 2024)",
       "resources": [
         {
           "label": "Info",
-          "url": "https://youtu.be/jKJRn7NPleQ"
+          "url": "https://youtu.be/foHtRGHI42E"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Dynamic Pets (February 2024)",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://youtu.be/X_l5SIl_t8U"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Expedition Improvements (February 2024)",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://youtu.be/X_l5SIl_t8U"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "New Characters (Young Senya / ML Politis / Jenua / Light Cidd / ???)",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://youtu.be/81U4eBF4pB4"
         }
       ]
     }
