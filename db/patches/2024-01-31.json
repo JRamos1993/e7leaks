@@ -1,0 +1,39 @@
+{
+  "type": "server",
+  "images": [],
+  "news": [
+    {
+      "veracity": "official",
+      "info": "Special Limited Pet Event"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Chloe + A Little Queen's Huge Crown"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Tamarinne & Idol's Cheer"
+    },
+    {
+      "veracity": "official",
+      "info": "Coin Shop Rotation - Archdemon's Shadow / Designer Lilibet / Solitaria of the Snow / Mui / Yulha / Mort"
+    },
+    {
+      "veracity": "official",
+      "info": "New Side Story - Miracle Maid Kingdom"
+    },
+    {
+      "veracity": "official",
+      "info": "New Artifacts - New Year's Festival Souvenir + XVII. The Star"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Valentine's Day Check-In Event"
+    },
+    {
+      "veracity": "maybe",
+      "info": "Pet Improvements + UI Improvements + Expedition Improvements + Labyrinth Improvements"
+    }
+  ],
+  "stream": []
+}
