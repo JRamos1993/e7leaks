@@ -1,5 +1,5 @@
 {
-  "type": "",
+  "type": "server",
   "images": [],
   "news": [
     {
@@ -8,7 +8,25 @@
     },
     {
       "veracity": "maybe",
-      "info": "Valentine's Day Check-In Event"
+      "info": "Two New Exclusive Equipment Added (Behoo and Eligos)",
+      "resources": [
+        {
+          "label": "Info",
+          "url": "https://page.onstove.com/epicseven/global/view/10029379"
+        }
+      ]
+    },
+    {
+      "veracity": "official",
+      "info": "Custom Group Summon"
+    },
+    {
+      "veracity": "official",
+      "info": "Hero Banner: Kise + Alabastron"
+    },
+    {
+      "veracity": "official",
+      "info": "Book of Memories - Bittersweet Dessert Festival"
     }
   ],
   "stream": []
